@@ -12,6 +12,9 @@
 
 body {
   background-color: #000000;
+  ::selection {
+    background-color: #c1b1ff;
+  }
 }
 
 @layer base {

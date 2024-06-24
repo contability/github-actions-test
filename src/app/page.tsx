@@ -1,7 +1,7 @@
 import React from "react";
 
 const RootPage = () => {
-  return <div>hello</div>;
+  return <p className=" text-[10rem] bg-white">hello</p>;
 };
 
 export default RootPage;
