@@ -1,3 +1,3 @@
 # github-actions-test
 
-commit test
+commit test2
